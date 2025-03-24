@@ -1,9 +1,17 @@
 
 ## Olá 👋, sou Wedja Sousa</h1>
-Sou apaixonada pelo mundo tecnológico e todas as suas inovações e principalmente pelo design gráfico
+# 👩‍💻 Desenvolvedora em Formação | Apaixonada por Tecnologia  
 
-👨‍💻 Estudante de ADS e Computação Gráfica
+🎓 **Formanda em Análise e Desenvolvimento de Sistemas**  
+🎨 **Cursada em Computação Gráfica**  
+🚀 Sempre explorando novas tecnologias e desafios  
 
+## 💡 Interesses  
+- Desenvolvimento de Software  
+- Design Gráfico e UX/UI  
+- Inovação Tecnológica  
+
+📌 Acompanhe meus projetos e vamos construir algo incrível juntos!  
 <!-- Cobrinha -->
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
