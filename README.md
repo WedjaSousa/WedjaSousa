@@ -1,6 +1,6 @@
 
 ## Olá 👋, sou Wedja Sousa</h1>
-# 👩‍💻 Desenvolvedora em Formação | Apaixonada por Tecnologia  
+ 👩‍💻 Desenvolvedora em Formação | Apaixonada por Tecnologia  
 
 🎓 **Formanda em Análise e Desenvolvimento de Sistemas**  
 🎨 **Cursada em Computação Gráfica**  
